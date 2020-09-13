@@ -1,7 +1,7 @@
 ---
-title: Hello World
-date: "2015-05-01T22:12:03.284Z"
-description: "Hello World"
+title: 論全球資本主義
+date: "2020-09-01T22:12:03.284Z"
+description: "論全球資本主義"
 ---
 
 
